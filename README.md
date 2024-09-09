@@ -1,6 +1,3 @@
-Here’s a draft for your GitHub "About Me" page based on your resume:
-
----
 
 ### About Me
 
